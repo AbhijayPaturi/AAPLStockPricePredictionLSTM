@@ -1,5 +1,5 @@
 # AAPLStockPricePredictionLSTM
-Predicting AAPL Stock Price via an LSTM model
+Predicting AAPL Stock Price via an LSTM model.
 
 ## Description
 Learned the theory behind RNN, CNN, and LSTM neural networks in my recent Data Mining class but never had the opportunity to implement them. Merging my interests in economics and data science together, I built an LSTM that predicts the stock price of AAPL prior to the "COVID crash."
